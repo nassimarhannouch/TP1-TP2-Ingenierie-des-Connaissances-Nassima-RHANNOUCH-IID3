@@ -10,7 +10,7 @@ Ce dépôt contient les deux **travaux pratiques (TP1 et TP2)** du module **Ing�
 
 ### 🔹 TP1 : Logique floue   
 
-### 🔹 TP2 : Machine Learning  
+### 🔹 TP2 : Logique floue et intégration du ML   
 Extension du TP1 en générant un **jeu de données synthétique** à partir du modèle flou, puis entraînement d’un modèle de **régression (Random Forest)** pour prédire l’ajustement de l’accélération.  
 - Génération du dataset  
 - Entraînement du modèle  
